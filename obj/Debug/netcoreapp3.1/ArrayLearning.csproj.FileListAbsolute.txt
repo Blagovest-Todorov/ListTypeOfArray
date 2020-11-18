@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\bin\Debug\netcoreapp3.1\ArrayLearning.exe
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\bin\Debug\netcoreapp3.1\ArrayLearning.deps.json
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\bin\Debug\netcoreapp3.1\ArrayLearning.runtimeconfig.json
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\bin\Debug\netcoreapp3.1\ArrayLearning.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\bin\Debug\netcoreapp3.1\ArrayLearning.dll
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\bin\Debug\netcoreapp3.1\ArrayLearning.pdb
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.dll
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.pdb
+C:\Users\Bla\source\repos\Solution3\ArrayLearning\obj\Debug\netcoreapp3.1\ArrayLearning.genruntimeconfig.cache
