@@ -10,16 +10,27 @@ namespace _01.arrayExamplesTasks
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Reversed : ");
-            int length = 12;
-            int[] arr = Enumerable.Range(2, length).ToArray(); //this is->Row (2,3,4,5,6,7,8,9,10,11,12,13) 
-                                                               //index:       (0,1,2,3,4,5,6,7, 8, 9,10,11 //for 12 elements
-
-            for (int i = length - 1; i >= 0; i--)
+            List<int> numbersList = new List<int>
             {
-                int number = arr[i];
-                Console.WriteLine(number);
-            }
+              1, 2 , 3 , 4 , 5 , 6 , 7
+            };
+            Console.WriteLine("Count {0} : ", numbersList.Count);
+            Console.WriteLine(string.Join(", ", numbersList));
+
+            numbersList.Insert(5, 10);
+            Console.WriteLine("Count {0}: ", numbersList.Count);
+            Console.WriteLine(string.Join(", ", numbersList));
+
+            numbersList.Add(1);
+            Console.WriteLine("Count {0}: ", numbersList.Count);
+            Console.WriteLine(string.Join(", ", numbersList));
+
+
+            // numbersList.Add(1);
+            numbersList.Remove(1); //removes a curent valueElement, the first element with a given value;
+            numbersList.RemoveAt(1);
+            Console.WriteLine("Count {0} : ", numbersList.Count);
+            Console.WriteLine(string.Join(", ", numbersList));
         }
     }
 }
